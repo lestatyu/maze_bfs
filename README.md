@@ -1,2 +1,2 @@
-# maze_bfs
-use bfs to solve maze problem
+# maze_dfs
+use dfs to solve maze problem
